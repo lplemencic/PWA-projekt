@@ -1,0 +1,135 @@
+
+body{
+    background-color: #E8E8E8;
+}
+header{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 2%;
+}
+.naslov{
+    margin: auto;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.header{
+width: 100%;
+}
+.container-fluid{
+
+    font-size: 20px;
+}
+.sec{
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    align-items: center;
+    width: 80%;
+    margin-bottom: 3%;
+}
+.podnaslov{
+    display: block;
+    width: 100%;
+}
+.slika{
+    max-width: 300px;
+    max-height: 300px;
+}
+
+footer{
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    margin-top: 3%;
+}
+/*Ovo je css za vjesti.php */
+
+.naslov_vjesti{
+    text-align: center;
+    width: 70%;
+    margin: auto;
+    margin-bottom: 3%;
+}
+.datum_vjesti{
+    text-align: center;
+    width: 70%;
+    margin: auto;
+    margin-bottom: 3%;
+}
+.slika_clanak{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 3%;
+}
+.kratki_sadrzaj{
+    margin: auto;
+    width: 70%;
+    font-size:25px;
+    margin-bottom: 3%;
+    word-break: break-all;
+}
+.sadrzaj_1{
+    margin: auto;
+    width: 70%;
+    margin-bottom: 3%;
+    word-break: break-all;
+}
+.podnaslov_clanka{
+    margin: auto;
+    width: 70%;
+    margin-bottom: 3%;
+    font-weight: bold;
+}
+.sadrzaj_2{
+    margin: auto;
+    width: 70%;
+    margin-bottom: 3%;
+    word-break: break-all;
+}
+.conteiner{
+    width:80%;
+    margin: auto;
+    background-color: white;
+}
+
+/*Ovo je za unos clanka*/
+.clanak_unos{
+    width: 60%;
+    margin: auto;
+    background-color: white;
+    margin-bottom: 3%;
+}
+.spremi{
+    margin: auto;
+    margin-bottom: 3%;
+}
+
+/*ovdje je login.php */
+
+.login,.signin{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+.registracija{
+    margin: auto;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-size: 20px;
+    font-weight: bold;
+}
+.sredina{
+    margin: auto;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/*Brisanje vjesti*/
+.brisanjevjesti{
+    margin: auto;
+    text-align: center;
+}
+
